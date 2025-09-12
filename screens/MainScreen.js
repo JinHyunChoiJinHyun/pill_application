@@ -6,7 +6,7 @@ import { StyleSheet, Text, View, Button, TextInput, FlatList, TouchableOpacity }
 
 export default function MainScreen({navigation}) {
   
-  console.log(navigation)
+  // console.log(navigation)
   const categories = [
     { id: "1", title: "감기약", desc: "콧물, 기침, 열", icon: "💊" },
     { id: "2", title: "해열제", desc: "발열, 두통", icon: "🥵" },
