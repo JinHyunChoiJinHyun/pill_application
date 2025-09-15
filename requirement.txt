@@ -7,3 +7,6 @@ npm install @react-navigation/native-stack
 
 캐시삭제
 npx react-native start --reset-cache
+
+back
+npm install express node-fetch dotenv cors
